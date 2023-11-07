@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bicolas", "bicolas\bicolas.csproj", "{5EB66C8E-908A-457B-B6BE-B24015142708}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5EB66C8E-908A-457B-B6BE-B24015142708}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EB66C8E-908A-457B-B6BE-B24015142708}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EB66C8E-908A-457B-B6BE-B24015142708}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EB66C8E-908A-457B-B6BE-B24015142708}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F81C353D-E42E-417B-9575-06B10511E31D}
+	EndGlobalSection
+EndGlobal
